@@ -41,10 +41,7 @@ Sem exageros, sem distrações. Apenas tecnologia trabalhando ao seu favor, faci
 
 
 # 🎯 Bora testar?
-Compile com:
-gcc -o smart_cpu_system smart_cpu_system.c  
+Compile com: gcc -o cpusystem cpusystem.c
 
-Execute:
-./smart_cpu_system  
-
+Execute: ./cpusystem
 
