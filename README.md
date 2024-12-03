@@ -9,16 +9,16 @@ Basta responder algumas perguntas rápidas, e o sistema identifica o modelo de C
 
 # 🚀 Funcionalidades 
 
-📝 Perguntas Dinâmicas
+📝 Perguntas Dinâmicas: 
 Um sistema que entende suas prioridades, como desempenho, custo, eficiência energética e muito mais, com base em respostas objetivas e fáceis de fornecer.
 
-💡 Recomendações Precisas
+💡 Recomendações Precisas: 
 Analisamos modelos renomados do mercado para selecionar a CPU que melhor atende às suas demandas específicas.
 
-🧩 Explicação Detalhada
+🧩 Explicação Detalhada: 
 Cada recomendação é acompanhada de uma justificativa clara e objetiva, permitindo que você compreenda os motivos por trás da escolha.
 
-🔄 Experiência Versátil
+🔄 Experiência Versátil: 
 Explore diferentes cenários ajustando suas preferências e obtenha recomendações sob medida para múltiplas situações.
 
 
